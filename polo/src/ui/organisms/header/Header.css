@@ -1,0 +1,27 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+}
+.ul{
+    display: flex;
+    list-style: none;
+    z-index: 3;
+ 
+}
+
+.ul li{
+    margin-left: 40px;
+    color: #fff;
+    text-transform: uppercase;
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    cursor: pointer;
+}
+.btn{
+    z-index: 3;
+}

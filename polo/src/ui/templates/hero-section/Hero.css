@@ -1,0 +1,8 @@
+
+.hero{
+    background-image: url(../../../images/Green-radial\ background.svg);
+    background-position: center;
+}
+.mask-img{
+    float: inline-end;
+}
